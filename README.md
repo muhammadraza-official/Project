@@ -9,3 +9,5 @@ the project of the github
 clone mean the clone in the local machine 
 local machine mean to say the computer or laptop
 COMMAND GIT CLONE <LINK>
+<br>
+CD IS the change command in the directory

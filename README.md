@@ -27,6 +27,8 @@ file is ready for commit
 unchange
 <br>
 ADD new and change the the working directory of git area
+git add <file name>
+
 <br>
 COMMIT
 change the directory

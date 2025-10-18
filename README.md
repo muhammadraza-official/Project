@@ -25,3 +25,9 @@ change
 file is ready for commit
 4.UNMODIFIED
 unchange
+<br>
+ADD new and change the the working directory of git area
+<br>
+COMMIT
+change the directory
+
